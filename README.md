@@ -1,40 +1,63 @@
-# 📚 Reference Books for Data Science & Statistics for Data Science
+# 📚 Reference Books Collection: Data Science & Statistics
 
-This repository contains a curated collection of textbooks and reference materials useful for students, educators, and professionals in the field of **Data Science** and **Statistical Analysis**.
-
-## 📖 Categories
-
-### 📊 Statistics for Data Science
-- **Fundamentals of Statistical Inference**
-- **Applied Multivariate Statistical Analysis**
-- **Probability and Statistics for Engineers and Scientists**
-- **Statistical Learning and Regression Techniques**
-
-### 📈 Data Science Core
-- **Python for Data Analysis** by Wes McKinney  
-- **Data Science from Scratch** by Joel Grus  
-- **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow** by Aurélien Géron  
-- **The Elements of Statistical Learning** by Hastie, Tibshirani, and Friedman  
-
-### 🧠 Machine Learning & AI
-- **Pattern Recognition and Machine Learning** by Christopher M. Bishop  
-- **Deep Learning** by Ian Goodfellow, Yoshua Bengio, and Aaron Courville  
-- **Bayesian Reasoning and Machine Learning** by David Barber  
-
-
-
-## 🔽 How to Use
-
-All books are organized by topic. Open the corresponding folder to access PDFs or related study materials.  
-Ensure that you are using these files for **educational and non-commercial purposes**.
-
-> ⚠️ **Disclaimer**: This repository is intended for academic reference only. Please ensure you have the legal right to download or share any materials.
+This repository contains a set of reference books and resources useful for understanding **Statistics**, **Probability**, and **Machine Learning** concepts in the context of **Data Science**.
 
 ---
 
-## 📬 Contributions
+## 📘 Book List
 
-You are welcome to contribute by:
-- Recommending useful open-source or freely available books
-- Organizing folders better
-- Adding summaries or notes for each book
+### 📊 Statistics & Data Science
+- **Practical Statistics for Data Scientists – Essential Concepts Using R and Python**  
+  *by Peter Bruce, Andrew Bruce, Peter Gedeck*  
+  A modern guide covering core statistics concepts with practical implementation using R and Python.
+
+- **Naked Statistics: Stripping the Dread from the Data**  
+  *by Charles Wheelan*  
+  A beginner-friendly and engaging exploration of statistics without heavy jargon.
+
+- **Statistics Notes 🗒️**  
+  A collection of handwritten/compiled notes summarizing key statistical ideas and techniques.
+
+- **How to Lie with Statistics**  
+  *by Darrell Huff*  
+  A classic book explaining how statistics can be misused or misunderstood—fun and educational.
+
+---
+
+### 📈 Probability
+- **Introduction to Probability**  
+  *by Joseph K. Blitzstein, Jessica Hwang*  
+  A rigorous yet accessible textbook on probability theory, widely used in data science education.
+
+- **𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 𝐭𝐨 𝐏𝐫𝐨𝐛𝐚𝐛𝐢𝐥𝐢𝐭𝐲**  
+  A general introduction to probability concepts. (Exact authorship or edition not specified.)
+
+- **Probability and Statistics Cookbook**  
+  A compact reference summarizing formulas, concepts, and problem-solving techniques.
+
+---
+
+### 🧬 Machine Learning & Genomics
+- **Multivariate Statistical Machine Learning Methods for Genomic Prediction**  
+  A specialized book covering advanced multivariate techniques for genomic data modeling and prediction.
+
+---
+
+
+## 📌 Usage
+
+These books are shared here for **educational and personal study** purposes only.  
+If you find a book useful, please consider purchasing or supporting the official publication.
+
+> ⚠️ **Disclaimer**: All materials in this repository are provided for educational reference. Please ensure you comply with local copyright laws.
+
+---
+
+## 🙌 Contributions Welcome
+
+Feel free to:
+- Organize books by category
+- Suggest open-source alternatives
+- Add summaries or markdown notes alongside each book
+
+```
